@@ -10081,3 +10081,7 @@ font-family: 'Marko One', serif;
 .mark-3{
 	font-family: 'Bitter', serif;
 }
+}
+ul {
+    list-style: none;
+}
