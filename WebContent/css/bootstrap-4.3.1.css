@@ -10085,5 +10085,8 @@ font-family: 'Marko One', serif;
 ul {
     list-style: none;
     padding-left: 5px !important;
-font-family: 'Montserrat', serif;
+    font-family: 'Montserrat', serif;
+}
+ul li {
+    font-family: 'Montserrat', serif;
 }
